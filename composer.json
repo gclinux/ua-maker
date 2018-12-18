@@ -1,0 +1,20 @@
+{
+    "name": "gclinux/ua-maker",
+    "type": "library",
+    "description": "随机制造虚拟UA",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gclinux",
+            "email": "os.debian@gmail.com"
+        }
+    ],
+    "require": {
+    },
+
+    "autoload": {
+        "classmap": [
+            "src/class"
+        ]
+    }
+}
